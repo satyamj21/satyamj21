@@ -1,29 +1,29 @@
 <h1 align="center">Hi, I'm Satyam Jha 👋</h1>
-<h3 align="center">Turning "I don't know how" into "I figured it out."</h3>
+<h3 align="center">Currently debugging life, one console.log at a time.</h3>
 
 <br>
 
 ## About Me
 
-I'm a Computer Engineering student building my way toward becoming a strong Software Engineer — not by collecting tutorials, but by actually shipping things, breaking them, and figuring out why.
+I'm a Computer Engineering student who has accepted that Stack Overflow is basically a second home and errors are just the universe's way of saying "not yet."
 
-Right now I'm deep in the fundamentals: JavaScript, React, Node.js, Express, MongoDB, Java, Python, and Data Structures & Algorithms. I care less about "which framework is trendy" and more about *why* it works the way it does — because tools change, but understanding systems doesn't.
+Right now, on any given day, you'll find me somewhere between "this code finally works" and "wait, why did it stop working," while going through JavaScript, React, Node.js, Express, MongoDB, Java, Python, and enough DSA to make my brain question its life choices. I'm not claiming to be good at any of it yet — I'm claiming to be *stubborn* enough to keep showing up until I am.
 
-I'm also deliberately working on becoming a more independent engineer — writing code, debugging errors, and solving problems myself before reaching for shortcuts. The goal isn't just to build projects. It's to build the kind of engineering judgment that eventually turns into real products, and someday, something of my own.
-
-<br>
-
-## What I'm Working On
-
-- 🌐 Full-stack development — connecting frontend, backend, and databases into real products
-- ⚛️ React + backend systems (Node.js, Express, MongoDB)
-- 🧠 DSA & problem-solving, consistently, not just before interviews
-- 📚 Core CS fundamentals — OS, DBMS, Networks, OOP
-- 🛠️ Practical projects that force me to debug and think, not just follow along
+I've built a handful of full-stack and frontend projects, which is a fancy way of saying I've broken things in more creative ways than most people knew were possible, then fixed them, then broken them again in a completely new way. That's the job, apparently.
 
 <br>
 
-## Tech Stack
+## What I'm Actually Doing Right Now (No Future Tense, I Promise)
+
+- 🌐 Building full-stack projects that work about 80% of the time on the first try
+- ⚛️ Wrestling with React state and backend logic like they owe me money
+- 🧠 Solving DSA problems, staring at them, solving them wrong, then solving them right
+- 📚 Relearning CS fundamentals I definitely understood once, briefly, in a previous semester
+- 🛠️ Reading my own error messages like they're written in an ancient, cursed language
+
+<br>
+
+## Tech Stack (Things I'm Currently Fighting With)
 
 **Languages**
 `JavaScript` `Java` `Python` `C/C++`
@@ -38,32 +38,32 @@ I'm also deliberately working on becoming a more independent engineer — writin
 `MongoDB` `MySQL`
 
 **Tools**
-`Git` `GitHub` `VS Code` `Postman` `Linux`
+`Git` (mostly `git commit -m "fix"` at 2am) `GitHub` `VS Code` `Postman` `Linux`
 
 **Problem Solving**
-`Data Structures` `Algorithms` `Competitive Programming`
+`Data Structures` `Algorithms` `Googling the exact error message and hoping`
 
 <br>
 
-## Projects
+## Projects (Proof I Don't Just Talk About It)
 
 ### 🔹 [Project Name One]
-One-line description of what it does and why it matters.
+Does a thing. Mostly does it correctly. Deployment was an adventure.
 **Stack:** React · Node.js · Express · MongoDB
 🔗 [Live Demo](#) · [Source Code](#)
 
 ### 🔹 [Project Name Two]
-One-line description of what it does and why it matters.
+A frontend that looks better than my sleep schedule.
 **Stack:** JavaScript · React · Tailwind CSS
 🔗 [Live Demo](#) · [Source Code](#)
 
 ### 🔹 [Project Name Three]
-One-line description of what it does and why it matters.
+A backend that survives most requests. Most.
 **Stack:** Node.js · Express · MongoDB
 🔗 [Live Demo](#) · [Source Code](#)
 
 ### 🔹 [Project Name Four]
-One-line description of what it does and why it matters.
+DSA practice repo — where good algorithms go to be brute-forced first.
 **Stack:** Java · DSA
 🔗 [Source Code](#)
 
@@ -71,21 +71,19 @@ One-line description of what it does and why it matters.
 
 ## My Engineering Philosophy
 
-> I don't just want to use tools — I want to understand how they work.
-> I'd rather spend an extra hour debugging than skip the part where I actually learn something.
-> The real skill isn't knowing the answer. It's knowing how to find it when there's no tutorial left to follow.
+> I don't want to just copy-paste solutions and pretend I understand them — mostly because I've tried, and it falls apart the second someone asks "why."
+> I'd rather sit with a bug for three hours and actually learn something than fix it in three minutes and learn nothing.
+> There's no tutorial for real problems, so I'm trying to get comfortable being the one who has to figure it out.
 
 <br>
 
-## Current Goals
+## Current Situation (Not Goals, Because We're Not Doing That)
 
-- [ ] Get consistently strong at DSA — patterns, not memorization
-- [ ] Build and ship 3–5 solid full-stack projects end-to-end
-- [ ] Reduce dependency on AI for implementation — think and debug independently first
-- [ ] Strengthen core CS fundamentals (OS, DBMS, Networks)
-- [ ] Contribute to open source
-- [ ] Go from "idea → architecture → implementation → deployment" on my own
-- [ ] Crack a strong SDE internship/role
+- [ ] Currently arguing with DSA problems and occasionally winning
+- [ ] Actively trying to write code before asking AI to write it for me
+- [ ] Presently relearning OS and DBMS concepts I "already knew"
+- [ ] In the middle of building projects that are held together by hope and semicolons
+- [ ] Slowly becoming someone who reads documentation before Stack Overflow (progress)
 
 <br>
 
@@ -113,4 +111,4 @@ One-line description of what it does and why it matters.
 
 <br>
 
-<p align="center"><i>Still learning. Still building. Getting sharper every commit.</i></p>
+<p align="center"><i>Currently compiling. Please wait.</i></p>
